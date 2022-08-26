@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-26T08:32:34 COT" name="Default suite" finished-at="2022-08-26T08:32:36 COT" duration-ms="2007">
+  <suite started-at="2022-08-26T10:58:29 COT" name="Default suite" finished-at="2022-08-26T10:58:32 COT" duration-ms="3043">
     <groups>
     </groups>
-    <test started-at="2022-08-26T08:32:34 COT" name="Default test" finished-at="2022-08-26T08:32:36 COT" duration-ms="2007">
+    <test started-at="2022-08-26T10:58:29 COT" name="Default test" finished-at="2022-08-26T10:58:32 COT" duration-ms="3043">
       <class name="allureReport.EmployeeDetailsTest">
-        <test-method signature="createUser()[pri:0, instance:allureReport.EmployeeDetailsTest@7334aada]" started-at="2022-08-26T08:32:34 COT" name="createUser" finished-at="2022-08-26T08:32:35 COT" duration-ms="1547" status="PASS">
+        <test-method signature="createUser()[pri:0, instance:allureReport.EmployeeDetailsTest@ec2cc4]" started-at="2022-08-26T10:58:29 COT" name="createUser" finished-at="2022-08-26T10:58:32 COT" duration-ms="2512" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUser -->
-        <test-method signature="verifyUser()[pri:0, instance:allureReport.EmployeeDetailsTest@7334aada]" started-at="2022-08-26T08:32:35 COT" name="verifyUser" finished-at="2022-08-26T08:32:36 COT" duration-ms="439" status="PASS">
+        <test-method signature="verifyUser()[pri:0, instance:allureReport.EmployeeDetailsTest@ec2cc4]" started-at="2022-08-26T10:58:32 COT" name="verifyUser" finished-at="2022-08-26T10:58:32 COT" duration-ms="496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUser -->

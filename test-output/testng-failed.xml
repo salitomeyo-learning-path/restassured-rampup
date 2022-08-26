@@ -5,7 +5,6 @@
     <classes>
       <class name="allureReport.EmployeeDetailsTest">
         <methods>
-          <include name="createUser"/>
           <include name="verifyUser"/>
         </methods>
       </class> <!-- allureReport.EmployeeDetailsTest -->
